@@ -244,6 +244,7 @@ function create_config( )
     "toPhoto",
     "toPhoto_Txt_img",
     "toSticker",
+    "antisex",
     "toVoice",
     "ver",
     "start",
