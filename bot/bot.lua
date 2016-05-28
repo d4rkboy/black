@@ -253,6 +253,7 @@ function create_config( )
     "inRealm",
     "onservice",
     "inGroups",
+    "lockfwd",
     "updater",
     "qrCode",
     "groupRequest_V2_Test",
