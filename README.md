@@ -8,6 +8,7 @@
 # [BlackPlus](https://telegram.me/Blackplus) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
 # آموزش نصب سروس
 1. کد زیر را در ترمینال وارد کنید.
+
 ---sudo apt-get update
 
 ---sudo apt-get upgrade
