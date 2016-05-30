@@ -229,6 +229,8 @@ function create_config( )
     "badword",
     "aparat",
     "calculator",
+    "s2a",
+    "aboutme",
     "antiRejoin",
     "pmLoad",
     "inSudo",
